@@ -13,3 +13,5 @@ L
 src/model/dao/SellerDAO.java,9\e\9e3727c1e698263b101897b1fa949ba9ff974391
 U
 %src/model/dao/impl/SellerDaoJDBC.java,c\2\c2e15f9342f5b526080d0c9f2d34927d275e0855
+M
+src/model/dao/DAOFactory.java,2\e\2ef0f5d8151bf33e0d354c2bea6127ebdcb05789

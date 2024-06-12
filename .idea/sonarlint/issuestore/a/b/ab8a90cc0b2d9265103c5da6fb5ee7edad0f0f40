@@ -1,2 +1,6 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8£“úÏ€2J$cbccd308-8884-4b8f-8f23-bcfff8a01fd4
+_
+java:S1854"=Remove this useless assignment to local variable "sellerDAO".(§ˆÙæúÿÿÿÿ8ÚÂÈÐ€2
+P
+java:S1481".Remove this unused "sellerDAO" local variable.(§ˆÙæúÿÿÿÿ8ãÂÈÐ€2
+r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8£“úÏ€2J$e8e08a7f-a7e4-4e97-b4d4-eb9dac69c6fe
