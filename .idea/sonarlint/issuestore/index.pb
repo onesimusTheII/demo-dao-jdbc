@@ -7,3 +7,7 @@ L
 src/application/Program.java,a\b\ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
 N
 src/model/entities/Seller.java,d\3\d33041a4c493273e337c2715df20a3f290539825
+P
+ src/model/dao/DepartmentDAO.java,1\1\115d4e11fa83913237c6a3c3e59780b30e876f2f
+L
+src/model/dao/SellerDAO.java,9\e\9e3727c1e698263b101897b1fa949ba9ff974391
