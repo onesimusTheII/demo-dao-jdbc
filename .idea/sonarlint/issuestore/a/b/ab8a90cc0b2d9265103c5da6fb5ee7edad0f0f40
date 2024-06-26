@@ -1,6 +1,7 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8ÿ‘„·…2J$d68f5a89-f753-492b-a64a-77fd2e777e88
-H
-java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ªÀ”·…2
-X
-java:S1128"6Remove this unused import 'model.entities.Department'.(œæøÿÿÿÿ8ªÀ”·…2
+m	java:S106"+Replace this use of System.out by a logger.(Ü±‚Û8ÿ‘„·…2J$fe1aef59-ed53-482d-aca2-ca9367009966
+r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8÷²â·…2J$b2eb5701-fe0f-45d7-9efd-b5ba3caa91cd
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ªÀ”·…2J$2e7f28a9-004c-4f5a-afc8-c02471557f8b
+~
+java:S1128"6Remove this unused import 'model.entities.Department'.(œæøÿÿÿÿ8ªÀ”·…2J$f0abf34b-5685-4fa5-a65a-cff6dc58ad0d
