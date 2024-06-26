@@ -15,3 +15,9 @@ U
 %src/model/dao/impl/SellerDaoJDBC.java,c\2\c2e15f9342f5b526080d0c9f2d34927d275e0855
 M
 src/model/dao/DAOFactory.java,2\e\2ef0f5d8151bf33e0d354c2bea6127ebdcb05789
+>
+src/db/DB.java,d\3\d305f6a1dcd7efedcf9636b0609242aab50a2ab4
+G
+src/db/DbException.java,7\c\7c4435bdfa4809ad9c3e1494f83162f6664f92ba
+P
+ src/db/DbIntegrityException.java,f\f\ffad809862bb971ef4704ee6069241c9bc68b8ba

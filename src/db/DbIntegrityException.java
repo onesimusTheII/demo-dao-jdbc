@@ -1,4 +1,4 @@
-package main.java.secao21_acesso_db_jdbc.demo_transacoes.db;
+package db;
 
 public class DbIntegrityException extends RuntimeException
 {
