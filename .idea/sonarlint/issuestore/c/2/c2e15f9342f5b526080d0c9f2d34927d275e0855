@@ -1,17 +1,15 @@
 
 °
-java:S11923"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.id " 3 times.(Éµ£·øÿÿÿÿ8æ´ê¸…2J$44746928-d496-4e2d-b848-b3ee9a115681
+java:S1192Y"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.id " 3 times.(Éµ£·øÿÿÿÿ8²ÔÕ¹…2J$53a505bf-9a2f-41f0-87dc-251924b8d01c
 °
-java:S11921"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïı8ç´ê¸…2J$9db9ff3e-e15a-493e-ac79-11c148d84f42
-•
-java:S1192O"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(¥ÆÒ›şÿÿÿÿ8Ú¸…2J$e49e7469-68af-42a8-9962-d98fa6b17215
+java:S1192W"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïı8³ÔÕ¹…2J$78fc27d2-ba8c-466d-ac9a-7b0f8215795d
 ¦
-java:S11922"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(õ³›ç8è´ê¸…2J$994aa303-e8cc-460d-9b52-91ffc304340f
+java:S1192X"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(õ³›ç8³ÔÕ¹…2J$86472af3-e630-45d2-8163-3d7972d2d557
+•
+java:S1192u"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(¥ÆÒ›şÿÿÿÿ8³ÔÕ¹…2J$5a78375f-d7c9-4441-a9ea-34ce56a44e06
 ¡
-java:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "seller".(‚‰Æó8Ú¸…2J$a003c59d-a59e-4adc-92e4-a6b8047e2f84
-É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Öâ€øÿÿÿÿ8²Ú¸…2J$26c26b28-1b93-4dd4-a76e-50356c7de7af
+java:S1488a"^Immediately return this expression instead of assigning it to the temporary variable "seller".(‚‰Æó8µÔÕ¹…2J$7222b57d-4a04-4fc8-aad4-56b30063f3db
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»»¹Œ8³Ú¸…2J$7676db1b-e896-4a22-a959-2011192914c6
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»»¹Œ8³ÕÕ¹…2J$d22a9baf-cc93-4478-ab86-76797004d548
 É
-java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ò©ÕÂÿÿÿÿÿ8³Ú¸…2J$d8ee5faf-dabe-4f7d-b2fd-23193650ae50
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ò©ÕÂÿÿÿÿÿ8µÕÕ¹…2J$107fcc1a-55f5-40d7-a5cf-502bf10eb673
