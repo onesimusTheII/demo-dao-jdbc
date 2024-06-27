@@ -1,7 +1,8 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(Ü±‚Û8ÿ‘„·…2J$fe1aef59-ed53-482d-aca2-ca9367009966
-r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8÷²â·…2J$b2eb5701-fe0f-45d7-9efd-b5ba3caa91cd
+m	java:S106"+Replace this use of System.out by a logger.(Ü±‚Û8Ñİ²¸…2J$85eead84-5c86-469f-ade0-e8d88a0bd821
+r	java:S106"+Replace this use of System.out by a logger.(ª‰‡¾üÿÿÿÿ8Òİ²¸…2J$2674051c-7f68-4e97-8942-8ee821648a90
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Òİ²¸…2J$f0070057-4d1e-42ae-b467-047cffa02552
+r	java:S106"+Replace this use of System.out by a logger.(Ê‘â€üÿÿÿÿ8ê³¸…2J$b74243bf-8d7b-4792-b471-10baae79c386
+L	java:S106"+Replace this use of System.out by a logger.(„øĞøøÿÿÿÿ8¨•Ş¸…2
 n
-java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ªÀ”·…2J$2e7f28a9-004c-4f5a-afc8-c02471557f8b
-~
-java:S1128"6Remove this unused import 'model.entities.Department'.(œæøÿÿÿÿ8ªÀ”·…2J$f0abf34b-5685-4fa5-a65a-cff6dc58ad0d
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ùİ¸…2J$354f773b-565e-4544-8695-99212dbe6599
