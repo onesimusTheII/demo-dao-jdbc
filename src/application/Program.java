@@ -16,10 +16,18 @@ public class Program
 		System.out.println("==== TEST1: seller findById ====");
 		Seller seller = sellerDAO.findById(3);
 		System.out.println(seller);
+
 		System.out.println();
+
 		System.out.println("==== TEST2: seller findByDepartment ====");
 		Department department = new Department(2, null);
-		List<Seller> sellerList = sellerDAO.findByDepartment(department);
-		sellerList.forEach(System.out::println);
+		List<Seller> sellerListByDepartment = sellerDAO.findByDepartment(department);
+		sellerListByDepartment.forEach(System.out::println);
+
+		System.out.println();
+
+		System.out.println("==== TEST3: seller findAll ====");
+		List<Seller> sellerListAll = sellerDAO.findAll();
+		sellerListAll.forEach(System.out::println);
 	}
 }
