@@ -1,15 +1,13 @@
 
 °
-java:S1192Y"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.id " 3 times.(Éµ£·øÿÿÿÿ8²ÔÕ¹…2J$53a505bf-9a2f-41f0-87dc-251924b8d01c
+java:S1192s"hDefine a constant instead of duplicating this literal "ON seller.DepartmentId = department.id " 3 times.(Éµ£·øÿÿÿÿ8ı¼ğ¹…2J$8039bfc6-2725-451c-b03c-5776cdcb926d
 °
-java:S1192W"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïı8³ÔÕ¹…2J$78fc27d2-ba8c-466d-ac9a-7b0f8215795d
+java:S1192q"mDefine a constant instead of duplicating this literal "SELECT seller.*, department.Name as DepName " 3 times.(À¨ïı8ş¼ğ¹…2J$fc5b06d4-7b3d-46cd-97de-1b619dab31cc
 ¦
-java:S1192X"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(õ³›ç8³ÔÕ¹…2J$86472af3-e630-45d2-8163-3d7972d2d557
-•
-java:S1192u"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(¥ÆÒ›şÿÿÿÿ8³ÔÕ¹…2J$5a78375f-d7c9-4441-a9ea-34ce56a44e06
+java:S1192r"cDefine a constant instead of duplicating this literal "FROM seller INNER JOIN department " 3 times.(õ³›ç8ş¼ğ¹…2J$7cb6720f-b90b-492d-8666-9b7e45244222
+–
+java:S1192"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(¥ÆÒ›şÿÿÿÿ8ş¼ğ¹…2J$281317fc-a653-4781-8ef6-f0b51f87055c
 ¡
-java:S1488a"^Immediately return this expression instead of assigning it to the temporary variable "seller".(‚‰Æó8µÔÕ¹…2J$7222b57d-4a04-4fc8-aad4-56b30063f3db
-Ä
-java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»»¹Œ8³ÕÕ¹…2J$d22a9baf-cc93-4478-ab86-76797004d548
+java:S1488{"^Immediately return this expression instead of assigning it to the temporary variable "seller".(‚‰Æó8½ğ¹…2J$4264a609-248c-4008-9fc6-9ab667401516
 É
-java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ò©ÕÂÿÿÿÿÿ8µÕÕ¹…2J$107fcc1a-55f5-40d7-a5cf-502bf10eb673
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ò©ÕÂÿÿÿÿÿ8‚¾ğ¹…2J$b727a8b7-4784-4798-8f77-ec52ec54f7b8
